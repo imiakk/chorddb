@@ -1,6 +1,7 @@
 # chorddb
 ![Built with Node.js](https://img.shields.io/badge/Built%20with-Node.js-green?logo=node.js&style=for-the-badge)
 ![Built with Axios](https://img.shields.io/badge/Built%20with-Axios-blue?logo=axios&style=for-the-badge)
+![npm](https://img.shields.io/npm/v/chorddb?style=for-the-badge)
 
 Chorddb is a simple, lightweight package which is a database like MongoDB which uses Discord as storage with encryption. It works with JSON data.
 
