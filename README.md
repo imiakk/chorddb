@@ -61,4 +61,4 @@ const db = new UDB("YOUR_DISCORD_TOKEN", "ENCRYPTION_KEY", "CHANNEL_ID");
 For bugs & Contributing make a Pull Request and ill try to respond as fast as possible.
 
 ## Licence
-[MIT Licence](LICENSE)
+[MIT Licence](LICENCE)
