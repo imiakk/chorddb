@@ -47,7 +47,7 @@ const db = new UDB("YOUR_DISCORD_TOKEN", "ENCRYPTION_KEY", "CHANNEL_ID");
 (async () => {
     await db.start();
 
-    const writeSuccess = await db.write({ key: "user123", name: "Ahyaan", coins: 100 });
+    const writeSuccess = await db.write({ key: "user123", name: "Someone", coins: 100 });
     console.log("Write successful?", writeSuccess);
 
     const user = await db.find({ key: "key", value: "user123" });
